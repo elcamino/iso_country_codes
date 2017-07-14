@@ -1,3 +1,25 @@
 ---
 "TWN":
   :name: "Taiwan"
+"BOL":
+  :name: "Bolivia"
+"IRN":
+  :name: "Iran"
+"PRK":
+  :name: "North Korea"
+"KOR":
+  :name: "Korea"
+"LAO":
+  :name: "Laos"
+"MKD":
+  :name: "Macedonia"
+"FSM":
+  :name: "Micronesia"
+"MDA":
+  :name: "Moldova"
+"TZA":
+  :name: "Tanzania"
+"GBR":
+  :name: "United Kingdom"
+"VEN":
+  :name: "Venezuela"
